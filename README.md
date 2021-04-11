@@ -1,6 +1,6 @@
 # Geospatial
 
-The ipython notebook creates an interactive HTML map. There is a tooltip that shares the grocery store name for each marker.
+The ipython notebook creates an interactive HTML map. There is a tooltip that shares the grocery store name for each marker, and you are able to zoom into street-level detail if you'd like.
 
 The map captures all 33 stores from the 2015 market study.
 * **Red**: Stores that have closed since the 2015 market study
