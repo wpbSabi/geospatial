@@ -9,5 +9,5 @@ The map captures all 33 stores from the 2015 market study.
 * **Orange**: New Season's, Whole Foods
 * **Purple**: Co-ops
 
-[Grocery Stores](https://github.com/wpbSabi/geospatial/blob/main/East%20Portland%20Grocery%20Stores.png)
+![](https://github.com/wpbSabi/geospatial/blob/main/East%20Portland%20Grocery%20Stores.png)
 
