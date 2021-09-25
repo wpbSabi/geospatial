@@ -4,7 +4,7 @@ The ipython notebook creates an [interactive HTML map](https://wpbsabi.github.io
 
 The map captures all 33 stores from the 2015 market study.
 * **Red**: Stores that have closed since the 2015 market study
-* **Green**: Stores that have opened since the 2015 market study or were not captured *PLEASE HELP WITH SHARING ANYTHING I MISSED*
+* **Green**: Stores that have opened since the 2015 market study or were not captured *Please do let me know if I have missed any new stores that have opened since*
 * **Blue**: Albertson's, Fred Meyer, Grocery Outlet, QFC, Safeway, Trader Joe's, Winco, 
 * **Orange**: New Season's, Whole Foods
 * **Purple**: Co-ops
