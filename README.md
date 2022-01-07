@@ -7,4 +7,4 @@ https://sabolch-horvat.medium.com/1-in-500-in-the-us-have-died-from-covid-1-in-1
 The repository has since been updated with data from November 6, 2021
 
 ## montavilla
-The *montavilla* repository is a map of grocery stores in East Portland, near the Montavilla neighborhood.
+The *montavilla* folder is a map of grocery stores in East Portland, near the Montavilla neighborhood.
