@@ -8,3 +8,4 @@ The repository has since been updated with data from November 6, 2021
 
 ## montavilla
 The *montavilla* folder is a map of grocery stores in East Portland, near the Montavilla neighborhood.
+The ReadME within the montavilla folder provides a more detailed overview.
