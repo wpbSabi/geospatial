@@ -1,6 +1,8 @@
 # Geospatial
 
-The ipython notebook creates an [interactive HTML map](https://wpbsabi.github.io/geospatial/). There is a tooltip that shares the grocery store name for each marker, and you are able to zoom into street-level detail if you'd like.
+To run, open `East Portland Grocery Stores.ipynb` with jupyter notebook.
+
+The notebook creates an [interactive HTML map](https://wpbsabi.github.io/geospatial/). There is a tooltip that shares the grocery store name for each marker, and you are able to zoom into street-level detail if you'd like.
 
 The map captures all 33 stores from the 2015 market study.
 * **Red**: Stores that have closed since the 2015 market study
@@ -9,5 +11,5 @@ The map captures all 33 stores from the 2015 market study.
 * **Orange**: New Season's, Whole Foods
 * **Purple**: Co-ops
 
-![](https://github.com/wpbSabi/geospatial/blob/main/montavilla/East%20Portland%20Grocery%20Stores.png)
+![Grocery Stores](https://github.com/wpbSabi/geospatial/blob/main/montavilla/East%20Portland%20Grocery%20Stores.png)
 
