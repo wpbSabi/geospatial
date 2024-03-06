@@ -1,4 +1,4 @@
-# Geospatial
+# Market Visualization for Grocery Stores near the Montavilla Neighborhood 
 
 To run, open `East Portland Grocery Stores.ipynb` with jupyter notebook.
 
